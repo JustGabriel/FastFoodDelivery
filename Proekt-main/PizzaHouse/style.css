@@ -120,9 +120,8 @@ section .main_btn{
     position: relative;
     left: 123px;
     bottom: 30px;
-    width: 150px;
-    cursor: pointer;
-    padding: 12px 25px;
+    width: 147px;
+    padding: 12px 12px;
 }
 
 section .main_btn a{
